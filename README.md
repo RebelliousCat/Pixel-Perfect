@@ -1,2 +1,2 @@
 # Pixel-Perfect
-Pixel-Perfect UV Packer and Baker.
+Pixel-Perfect UV Packer and Baker for MelonRipper.
